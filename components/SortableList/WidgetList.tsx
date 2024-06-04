@@ -22,7 +22,6 @@ const tiles = [
     id: 'cards',
   },
 ];
-
 const WidgetList = () => {
   return (
     <View
